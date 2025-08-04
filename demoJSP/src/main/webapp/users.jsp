@@ -32,7 +32,7 @@ String url = "jdbc:postgresql://localhost:5432/user_details";
         }
       %>  	
        
-        
+        <div></div>
         <div class="mt-20 w-full">
         <div class="flex-auto mr-2 text-center">
         <a href="userForm.jsp" class="text-white bg-green-500 w-1/4 p-2 text-lg rounded hover:bg-green-700"  >Add User</a>
