@@ -10,6 +10,7 @@
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body  class = "flex justify-center items-center min-h-screen  bg-gray-200">
+<div></div>
 <% 
 String url = "jdbc:postgresql://localhost:5432/user_details";
         String user = "postgres";
